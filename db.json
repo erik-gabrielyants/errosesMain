@@ -5,12 +5,12 @@
         "size": "60",
         "group": "Anna Karina, Анна Карина",
         "price": "0.57",
-        "main_picture": "/img/one/Anna Karina1/annamain.png",
+        "main_picture": "img/one/Anna Karina1/annamain.png",
         "slider_pictures": [
-            "/img/one/Anna Karina1/anna1.png",
-            "/img/one/Anna Karina1/anna2.png",
-            "/img/one/Anna Karina1/anna3.png",
-            "/img/one/Anna Karina1/anna4.png"
+            "img/one/Anna Karina1/anna1.png",
+            "img/one/Anna Karina1/anna2.png",
+            "img/one/Anna Karina1/anna3.png",
+            "img/one/Anna Karina1/anna4.png"
         ],
         "smell": "нет"
     },
@@ -20,12 +20,12 @@
         "size": "70",
         "group": "Anna Karina, Анна Карина",
         "price": "0.71",
-        "main_picture": "/img/one/Anna Karina1/annamain.png",
+        "main_picture": "img/one/Anna Karina1/annamain.png",
         "slider_pictures": [
-            "/img/one/Anna Karina1/anna1.png",
-            "/img/one/Anna Karina1/anna2.png",
-            "/img/one/Anna Karina1/anna3.png",
-            "/img/one/Anna Karina1/anna4.png"
+            "img/one/Anna Karina1/anna1.png",
+            "img/one/Anna Karina1/anna2.png",
+            "img/one/Anna Karina1/anna3.png",
+            "img/one/Anna Karina1/anna4.png"
         ],
         "smell": "нет"
     },
@@ -35,12 +35,12 @@
         "size": "80",
         "group": "Anna Karina, Анна Карина",
         "price": "0.86",
-        "main_picture": "/img/one/Anna Karina1/annamain.png",
+        "main_picture": "img/one/Anna Karina1/annamain.png",
         "slider_pictures": [
-            "/img/one/Anna Karina1/anna1.png",
-            "/img/one/Anna Karina1/anna2.png",
-            "/img/one/Anna Karina1/anna3.png",
-            "/img/one/Anna Karina1/anna4.png"
+            "img/one/Anna Karina1/anna1.png",
+            "img/one/Anna Karina1/anna2.png",
+            "img/one/Anna Karina1/anna3.png",
+            "img/one/Anna Karina1/anna4.png"
         ],
         "smell": "нет"
     },
@@ -50,12 +50,12 @@
         "size": "90",
         "group": "Anna Karina, Анна Карина",
         "price": "1",
-        "main_picture": "/img/one/Anna Karina1/annamain.png",
+        "main_picture": "img/one/Anna Karina1/annamain.png",
         "slider_pictures": [
-            "/img/one/Anna Karina1/anna1.png",
-            "/img/one/Anna Karina1/anna2.png",
-            "/img/one/Anna Karina1/anna3.png",
-            "/img/one/Anna Karina1/anna4.png"
+            "img/one/Anna Karina1/anna1.png",
+            "img/one/Anna Karina1/anna2.png",
+            "img/one/Anna Karina1/anna3.png",
+            "img/one/Anna Karina1/anna4.png"
         ],
         "smell": "нет"
     },
@@ -65,13 +65,13 @@
         "size": "40",
         "group": "Avalanche, Аваланж",
         "price": "0.29",
-        "main_picture": "/img/one/Avalanche2/avalanchemain.png",
+        "main_picture": "img/one/Avalanche2/avalanchemain.png",
         "slider_pictures": [
-            "/img/one/Avalanche2/avalanche1.png",
-            "/img/one/Avalanche2/avalanche2.png",
-            "/img/one/Avalanche2/avalanche3.png",
-            "/img/one/Avalanche2/avalanche4.png",
-            "/img/one/Avalanche2/avalanche5.png"
+            "img/one/Avalanche2/avalanche1.png",
+            "img/one/Avalanche2/avalanche2.png",
+            "img/one/Avalanche2/avalanche3.png",
+            "img/one/Avalanche2/avalanche4.png",
+            "img/one/Avalanche2/avalanche5.png"
         ],
         "smell": "нет"
     },
@@ -81,13 +81,13 @@
         "size": "50",
         "group": "Avalanche, Аваланж",
         "price": "0.43",
-        "main_picture": "/img/one/Avalanche2/avalanchemain.png",
+        "main_picture": "img/one/Avalanche2/avalanchemain.png",
         "slider_pictures": [
-            "/img/one/Avalanche2/avalanche1.png",
-            "/img/one/Avalanche2/avalanche2.png",
-            "/img/one/Avalanche2/avalanche3.png",
-            "/img/one/Avalanche2/avalanche4.png",
-            "/img/one/Avalanche2/avalanche5.png"
+            "img/one/Avalanche2/avalanche1.png",
+            "img/one/Avalanche2/avalanche2.png",
+            "img/one/Avalanche2/avalanche3.png",
+            "img/one/Avalanche2/avalanche4.png",
+            "img/one/Avalanche2/avalanche5.png"
         ],
         "smell": "нет"
     },
@@ -97,13 +97,13 @@
         "size": "60",
         "group": "Avalanche, Аваланж",
         "price": "0.57",
-        "main_picture": "/img/one/Avalanche2/avalanchemain.png",
+        "main_picture": "img/one/Avalanche2/avalanchemain.png",
         "slider_pictures": [
-            "/img/one/Avalanche2/avalanche1.png",
-            "/img/one/Avalanche2/avalanche2.png",
-            "/img/one/Avalanche2/avalanche3.png",
-            "/img/one/Avalanche2/avalanche4.png",
-            "/img/one/Avalanche2/avalanche5.png"
+            "img/one/Avalanche2/avalanche1.png",
+            "img/one/Avalanche2/avalanche2.png",
+            "img/one/Avalanche2/avalanche3.png",
+            "img/one/Avalanche2/avalanche4.png",
+            "img/one/Avalanche2/avalanche5.png"
         ],
         "smell": "нет"
     },
@@ -113,13 +113,13 @@
         "size": "70",
         "group": "Avalanche, Аваланж",
         "price": "0.71",
-        "main_picture": "/img/one/Avalanche2/avalanchemain.png",
+        "main_picture": "img/one/Avalanche2/avalanchemain.png",
         "slider_pictures": [
-            "/img/one/Avalanche2/avalanche1.png",
-            "/img/one/Avalanche2/avalanche2.png",
-            "/img/one/Avalanche2/avalanche3.png",
-            "/img/one/Avalanche2/avalanche4.png",
-            "/img/one/Avalanche2/avalanche5.png"
+            "img/one/Avalanche2/avalanche1.png",
+            "img/one/Avalanche2/avalanche2.png",
+            "img/one/Avalanche2/avalanche3.png",
+            "img/one/Avalanche2/avalanche4.png",
+            "img/one/Avalanche2/avalanche5.png"
         ],
         "smell": "нет"
     },
@@ -129,13 +129,13 @@
         "size": "40",
         "group": "Armine, Армине",
         "price": "0.29",
-        "main_picture": "/img/one/Armine3/main.png",
+        "main_picture": "img/one/Armine3/main.png",
         "slider_pictures": [
-            "/img/one/Armine3/1.png",
-            "/img/one/Armine3/2.png",
-            "/img/one/Armine3/3.png",
-            "/img/one/Armine3/4.png",
-            "/img/one/Armine3/5.png"
+            "img/one/Armine3/1.png",
+            "img/one/Armine3/2.png",
+            "img/one/Armine3/3.png",
+            "img/one/Armine3/4.png",
+            "img/one/Armine3/5.png"
         ],
         "smell": "нет"
     },
@@ -145,13 +145,13 @@
         "size": "50",
         "group": "Armine, Армине",
         "price": "0.43",
-        "main_picture": "/img/one/Armine3/main.png",
+        "main_picture": "img/one/Armine3/main.png",
         "slider_pictures": [
-            "/img/one/Armine3/1.png",
-            "/img/one/Armine3/2.png",
-            "/img/one/Armine3/3.png",
-            "/img/one/Armine3/4.png",
-            "/img/one/Armine3/5.png"
+            "img/one/Armine3/1.png",
+            "img/one/Armine3/2.png",
+            "img/one/Armine3/3.png",
+            "img/one/Armine3/4.png",
+            "img/one/Armine3/5.png"
         ],
         "smell": "нет"
     },
@@ -161,13 +161,13 @@
         "size": "60",
         "group": "Armine, Армине",
         "price": "0.57",
-        "main_picture": "/img/one/Armine3/main.png",
+        "main_picture": "img/one/Armine3/main.png",
         "slider_pictures": [
-            "/img/one/Armine3/1.png",
-            "/img/one/Armine3/2.png",
-            "/img/one/Armine3/3.png",
-            "/img/one/Armine3/4.png",
-            "/img/one/Armine3/5.png"
+            "img/one/Armine3/1.png",
+            "img/one/Armine3/2.png",
+            "img/one/Armine3/3.png",
+            "img/one/Armine3/4.png",
+            "img/one/Armine3/5.png"
         ],
         "smell": "нет"
     },
@@ -177,13 +177,13 @@
         "size": "70",
         "group": "Armine, Армине",
         "price": "0.71",
-        "main_picture": "/img/one/Armine3/main.png",
+        "main_picture": "img/one/Armine3/main.png",
         "slider_pictures": [
-            "/img/one/Armine3/1.png",
-            "/img/one/Armine3/2.png",
-            "/img/one/Armine3/3.png",
-            "/img/one/Armine3/4.png",
-            "/img/one/Armine3/5.png"
+            "img/one/Armine3/1.png",
+            "img/one/Armine3/2.png",
+            "img/one/Armine3/3.png",
+            "img/one/Armine3/4.png",
+            "img/one/Armine3/5.png"
         ],
         "smell": "нет"
     },
@@ -193,12 +193,12 @@
         "size": "50",
         "group": "Gayane, Гаяне",
         "price": "0.43",
-        "main_picture": "/img/one/Gayane4/main.png",
+        "main_picture": "img/one/Gayane4/main.png",
         "slider_pictures": [
-            "/img/one/Gayane4/1.png",
-            "/img/one/Gayane4/2.png",
-            "/img/one/Gayane4/3.png",
-            "/img/one/Gayane4/4.png"
+            "img/one/Gayane4/1.png",
+            "img/one/Gayane4/2.png",
+            "img/one/Gayane4/3.png",
+            "img/one/Gayane4/4.png"
         ],
         "smell": "нет"
     },
@@ -208,10 +208,10 @@
         "size": "40",
         "group": "Dolomiti, Доломити",
         "price": "0.29",
-        "main_picture": "/img/one/Dolomiti5/main.png",
+        "main_picture": "img/one/Dolomiti5/main.png",
         "slider_pictures": [
-            "/img/one/Dolomiti5/1.png",
-            "/img/one/Dolomiti5/2.png"
+            "img/one/Dolomiti5/1.png",
+            "img/one/Dolomiti5/2.png"
         ],
         "smell": "нет"
     },
@@ -221,10 +221,10 @@
         "size": "50",
         "group": "Dolomiti, Доломити",
         "price": "0.43",
-        "main_picture": "/img/one/Dolomiti5/main.png",
+        "main_picture": "img/one/Dolomiti5/main.png",
         "slider_pictures": [
-            "/img/one/Dolomiti5/1.png",
-            "/img/one/Dolomiti5/2.png"
+            "img/one/Dolomiti5/1.png",
+            "img/one/Dolomiti5/2.png"
         ],
         "smell": "нет"
     },
@@ -234,10 +234,10 @@
         "size": "60",
         "group": "Dolomiti, Доломити",
         "price": "0.57",
-        "main_picture": "/img/one/Dolomiti5/main.png",
+        "main_picture": "img/one/Dolomiti5/main.png",
         "slider_pictures": [
-            "/img/one/Dolomiti5/1.png",
-            "/img/one/Dolomiti5/2.png"
+            "img/one/Dolomiti5/1.png",
+            "img/one/Dolomiti5/2.png"
         ],
         "smell": "нет"
     },
@@ -247,10 +247,10 @@
         "size": "70",
         "group": "Dolomiti, Доломити",
         "price": "0.71",
-        "main_picture": "/img/one/Dolomiti5/main.png",
+        "main_picture": "img/one/Dolomiti5/main.png",
         "slider_pictures": [
-            "/img/one/Dolomiti5/1.png",
-            "/img/one/Dolomiti5/2.png"
+            "img/one/Dolomiti5/1.png",
+            "img/one/Dolomiti5/2.png"
         ],
         "smell": "нет"
     },
@@ -260,10 +260,10 @@
         "size": "80",
         "group": "Dolomiti, Доломити",
         "price": "0.86",
-        "main_picture": "/img/one/Dolomiti5/main.png",
+        "main_picture": "img/one/Dolomiti5/main.png",
         "slider_pictures": [
-            "/img/one/Dolomiti5/1.png",
-            "/img/one/Dolomiti5/2.png"
+            "img/one/Dolomiti5/1.png",
+            "img/one/Dolomiti5/2.png"
         ],
         "smell": "нет"
     },
@@ -273,10 +273,10 @@
         "size": "40",
         "group": "Explorer, Эксплорер",
         "price": "0.29",
-        "main_picture": "/img/one/Explorer6/main.png",
+        "main_picture": "img/one/Explorer6/main.png",
         "slider_pictures": [
-            "/img/one/Explorer6/1.png",
-            "/img/one/Explorer6/2.png"
+            "img/one/Explorer6/1.png",
+            "img/one/Explorer6/2.png"
         ],
         "smell": "нет"
     },
@@ -286,10 +286,10 @@
         "size": "50",
         "group": "Explorer, Эксплорер",
         "price": "0.43",
-        "main_picture": "/img/one/Explorer6/main.png",
+        "main_picture": "img/one/Explorer6/main.png",
         "slider_pictures": [
-            "/img/one/Explorer6/1.png",
-            "/img/one/Explorer6/2.png"
+            "img/one/Explorer6/1.png",
+            "img/one/Explorer6/2.png"
         ],
         "smell": "нет"
     },
@@ -299,10 +299,10 @@
         "size": "60",
         "group": "Explorer, Эксплорер",
         "price": "0.57",
-        "main_picture": "/img/one/Explorer6/main.png",
+        "main_picture": "img/one/Explorer6/main.png",
         "slider_pictures": [
-            "/img/one/Explorer6/1.png",
-            "/img/one/Explorer6/2.png"
+            "img/one/Explorer6/1.png",
+            "img/one/Explorer6/2.png"
         ],
         "smell": "нет"
     },
@@ -312,10 +312,10 @@
         "size": "70",
         "group": "Explorer, Эксплорер",
         "price": "0.71",
-        "main_picture": "/img/one/Explorer6/main.png",
+        "main_picture": "img/one/Explorer6/main.png",
         "slider_pictures": [
-            "/img/one/Explorer6/1.png",
-            "/img/one/Explorer6/2.png"
+            "img/one/Explorer6/1.png",
+            "img/one/Explorer6/2.png"
         ],
         "smell": "нет"
     },
@@ -325,10 +325,10 @@
         "size": "80",
         "group": "Explorer, Эксплорер",
         "price": "0.86",
-        "main_picture": "/img/one/Explorer6/main.png",
+        "main_picture": "img/one/Explorer6/main.png",
         "slider_pictures": [
-            "/img/one/Explorer6/1.png",
-            "/img/one/Explorer6/2.png"
+            "img/one/Explorer6/1.png",
+            "img/one/Explorer6/2.png"
         ],
         "smell": "нет"
     },
@@ -338,10 +338,10 @@
         "size": "90",
         "group": "Explorer, Эксплорер",
         "price": "1",
-        "main_picture": "/img/one/Explorer6/main.png",
+        "main_picture": "img/one/Explorer6/main.png",
         "slider_pictures": [
-            "/img/one/Explorer6/1.png",
-            "/img/one/Explorer6/2.png"
+            "img/one/Explorer6/1.png",
+            "img/one/Explorer6/2.png"
         ],
         "smell": "нет"
     },
@@ -351,12 +351,12 @@
         "size": "40",
         "group": "Luxor, Луксор",
         "price": "0.29",
-        "main_picture": "/img/one/Luxsor7/main.png",
+        "main_picture": "img/one/Luxsor7/main.png",
         "slider_pictures": [
-            "/img/one/Luxsor7/1.png",
-            "/img/one/Luxsor7/2.png",
-            "/img/one/Luxsor7/3.png",
-            "/img/one/Luxsor7/4.png"
+            "img/one/Luxsor7/1.png",
+            "img/one/Luxsor7/2.png",
+            "img/one/Luxsor7/3.png",
+            "img/one/Luxsor7/4.png"
         ],
         "smell": "нет"
     },
@@ -366,12 +366,12 @@
         "size": "70",
         "group": "Luxor, Луксор",
         "price": "0.71",
-        "main_picture": "/img/one/Luxsor7/main.png",
+        "main_picture": "img/one/Luxsor7/main.png",
         "slider_pictures": [
-            "/img/one/Luxsor7/1.png",
-            "/img/one/Luxsor7/2.png",
-            "/img/one/Luxsor7/3.png",
-            "/img/one/Luxsor7/4.png"
+            "img/one/Luxsor7/1.png",
+            "img/one/Luxsor7/2.png",
+            "img/one/Luxsor7/3.png",
+            "img/one/Luxsor7/4.png"
         ],
         "smell": "нет"
     },
@@ -381,12 +381,12 @@
         "size": "90",
         "group": "Luxor, Луксор",
         "price": "1",
-        "main_picture": "/img/one/Luxsor7/main.png",
+        "main_picture": "img/one/Luxsor7/main.png",
         "slider_pictures": [
-            "/img/one/Luxsor7/1.png",
-            "/img/one/Luxsor7/2.png",
-            "/img/one/Luxsor7/3.png",
-            "/img/one/Luxsor7/4.png"
+            "img/one/Luxsor7/1.png",
+            "img/one/Luxsor7/2.png",
+            "img/one/Luxsor7/3.png",
+            "img/one/Luxsor7/4.png"
         ],
         "smell": "нет"
     },
@@ -396,12 +396,12 @@
         "size": "40",
         "group": "Maritim, Маритим",
         "price": "0.29",
-        "main_picture": "/img/one/Maritim8/main.png",
+        "main_picture": "img/one/Maritim8/main.png",
         "slider_pictures": [
-            "/img/one/Maritim8/1.png",
-            "/img/one/Maritim8/2.png",
-            "/img/one/Maritim8/3.png",
-            "/img/one/Maritim8/4.png"
+            "img/one/Maritim8/1.png",
+            "img/one/Maritim8/2.png",
+            "img/one/Maritim8/3.png",
+            "img/one/Maritim8/4.png"
         ],
         "smell": "нет"
     },
@@ -411,12 +411,12 @@
         "size": "50",
         "group": "Maritim, Маритим",
         "price": "0.43",
-        "main_picture": "/img/one/Maritim8/main.png",
+        "main_picture": "img/one/Maritim8/main.png",
         "slider_pictures": [
-            "/img/one/Maritim8/1.png",
-            "/img/one/Maritim8/2.png",
-            "/img/one/Maritim8/3.png",
-            "/img/one/Maritim8/4.png"
+            "img/one/Maritim8/1.png",
+            "img/one/Maritim8/2.png",
+            "img/one/Maritim8/3.png",
+            "img/one/Maritim8/4.png"
         ],
         "smell": "нет"
     },
@@ -426,12 +426,12 @@
         "size": "70",
         "group": "Maritim, Маритим",
         "price": "0.71",
-        "main_picture": "/img/one/Maritim8/main.png",
+        "main_picture": "img/one/Maritim8/main.png",
         "slider_pictures": [
-            "/img/one/Maritim8/1.png",
-            "/img/one/Maritim8/2.png",
-            "/img/one/Maritim8/3.png",
-            "/img/one/Maritim8/4.png"
+            "img/one/Maritim8/1.png",
+            "img/one/Maritim8/2.png",
+            "img/one/Maritim8/3.png",
+            "img/one/Maritim8/4.png"
         ],
         "smell": "нет"
     },
@@ -441,12 +441,12 @@
         "size": "50",
         "group": "Narine, Нарине",
         "price": "0.43",
-        "main_picture": "/img/one/Narine9+/main.png",
+        "main_picture": "img/one/Narine9+/main.png",
         "slider_pictures": [
-            "/img/one/Narine9+/1.png",
-            "/img/one/Narine9+/2.png",
-            "/img/one/Narine9+/3.png",
-            "/img/one/Narine9+/4.png"
+            "img/one/Narine9+/1.png",
+            "img/one/Narine9+/2.png",
+            "img/one/Narine9+/3.png",
+            "img/one/Narine9+/4.png"
         ],
         "smell": "есть"
     },
@@ -456,12 +456,12 @@
         "size": "60",
         "group": "Narine, Нарине",
         "price": "0.57",
-        "main_picture": "/img/one/Narine9+/main.png",
+        "main_picture": "img/one/Narine9+/main.png",
         "slider_pictures": [
-            "/img/one/Narine9+/1.png",
-            "/img/one/Narine9+/2.png",
-            "/img/one/Narine9+/3.png",
-            "/img/one/Narine9+/4.png"
+            "img/one/Narine9+/1.png",
+            "img/one/Narine9+/2.png",
+            "img/one/Narine9+/3.png",
+            "img/one/Narine9+/4.png"
         ],
         "smell": "есть"
     },
@@ -471,12 +471,12 @@
         "size": "50",
         "group": "Noelia, Ноэлия",
         "price": "0.43",
-        "main_picture": "/img/one/Noelia10/main.png",
+        "main_picture": "img/one/Noelia10/main.png",
         "slider_pictures": [
-            "/img/one/Noelia10/1.png",
-            "/img/one/Noelia10/2.png",
-            "/img/one/Noelia10/3.png",
-            "/img/one/Noelia10/4.png"
+            "img/one/Noelia10/1.png",
+            "img/one/Noelia10/2.png",
+            "img/one/Noelia10/3.png",
+            "img/one/Noelia10/4.png"
         ],
         "smell": "нет"
     },
@@ -486,12 +486,12 @@
         "size": "60",
         "group": "Noelia, Ноэлия",
         "price": "0.57",
-        "main_picture": "/img/one/Noelia10/main.png",
+        "main_picture": "img/one/Noelia10/main.png",
         "slider_pictures": [
-            "/img/one/Noelia10/1.png",
-            "/img/one/Noelia10/2.png",
-            "/img/one/Noelia10/3.png",
-            "/img/one/Noelia10/4.png"
+            "img/one/Noelia10/1.png",
+            "img/one/Noelia10/2.png",
+            "img/one/Noelia10/3.png",
+            "img/one/Noelia10/4.png"
             
         ],
         "smell": "нет"
@@ -502,12 +502,12 @@
         "size": "70",
         "group": "Noelia, Ноэлия",
         "price": "0.71",
-        "main_picture": "/img/one/Noelia10/main.png",
+        "main_picture": "img/one/Noelia10/main.png",
         "slider_pictures": [
-            "/img/one/Noelia10/1.png",
-            "/img/one/Noelia10/2.png",
-            "/img/one/Noelia10/3.png",
-            "/img/one/Noelia10/4.png"
+            "img/one/Noelia10/1.png",
+            "img/one/Noelia10/2.png",
+            "img/one/Noelia10/3.png",
+            "img/one/Noelia10/4.png"
             
         ],
         "smell": "нет"
@@ -518,12 +518,12 @@
         "size": "80",
         "group": "Noelia, Ноэлия",
         "price": "0.86",
-        "main_picture": "/img/one/Noelia10/main.png",
+        "main_picture": "img/one/Noelia10/main.png",
         "slider_pictures": [
-            "/img/one/Noelia10/1.png",
-            "/img/one/Noelia10/2.png",
-            "/img/one/Noelia10/3.png",
-            "/img/one/Noelia10/4.png"
+            "img/one/Noelia10/1.png",
+            "img/one/Noelia10/2.png",
+            "img/one/Noelia10/3.png",
+            "img/one/Noelia10/4.png"
             
         ],
         "smell": "нет"
@@ -534,12 +534,12 @@
         "size": "40",
         "group": "Shangri La, Шангри Ла",
         "price": "0.29",
-        "main_picture": "/img/one/ShangriLa11/main.png",
+        "main_picture": "img/one/ShangriLa11/main.png",
         "slider_pictures": [
-            "/img/one/ShangriLa11/1.png",
-            "/img/one/ShangriLa11/2.png",
-            "/img/one/ShangriLa11/3.png",
-            "/img/one/ShangriLa11/4.png"
+            "img/one/ShangriLa11/1.png",
+            "img/one/ShangriLa11/2.png",
+            "img/one/ShangriLa11/3.png",
+            "img/one/ShangriLa11/4.png"
             
         ],
         "smell": "нет"
@@ -550,12 +550,12 @@
         "size": "50",
         "group": "Shangri La, Шангри Ла",
         "price": "0.43",
-        "main_picture": "/img/one/ShangriLa11/main.png",
+        "main_picture": "img/one/ShangriLa11/main.png",
         "slider_pictures": [
-            "/img/one/ShangriLa11/1.png",
-            "/img/one/ShangriLa11/2.png",
-            "/img/one/ShangriLa11/3.png",
-            "/img/one/ShangriLa11/4.png"
+            "img/one/ShangriLa11/1.png",
+            "img/one/ShangriLa11/2.png",
+            "img/one/ShangriLa11/3.png",
+            "img/one/ShangriLa11/4.png"
         ],
         "smell": "нет"
     },
@@ -565,12 +565,12 @@
         "size": "60",
         "group": "Shangri La, Шангри Ла",
         "price": "0.57",
-        "main_picture": "/img/one/ShangriLa11/main.png",
+        "main_picture": "img/one/ShangriLa11/main.png",
         "slider_pictures": [
-            "/img/one/ShangriLa11/1.png",
-            "/img/one/ShangriLa11/2.png",
-            "/img/one/ShangriLa11/3.png",
-            "/img/one/ShangriLa11/4.png"
+            "img/one/ShangriLa11/1.png",
+            "img/one/ShangriLa11/2.png",
+            "img/one/ShangriLa11/3.png",
+            "img/one/ShangriLa11/4.png"
             
         ],
         "smell": "нет"
@@ -581,12 +581,12 @@
         "size": "70",
         "group": "Shangri La, Шангри Ла",
         "price": "0.71",
-        "main_picture": "/img/one/ShangriLa11/main.png",
+        "main_picture": "img/one/ShangriLa11/main.png",
         "slider_pictures": [
-            "/img/one/ShangriLa11/1.png",
-            "/img/one/ShangriLa11/2.png",
-            "/img/one/ShangriLa11/3.png",
-            "/img/one/ShangriLa11/4.png"
+            "img/one/ShangriLa11/1.png",
+            "img/one/ShangriLa11/2.png",
+            "img/one/ShangriLa11/3.png",
+            "img/one/ShangriLa11/4.png"
             
         ],
         "smell": "нет"
@@ -597,11 +597,11 @@
         "size": "40",
         "group": "Penny Lane - Пенни Лейн",
         "price": "0.29",
-        "main_picture": "/img/one/PennyLane12/main.png",
+        "main_picture": "img/one/PennyLane12/main.png",
         "slider_pictures": [
-            "/img/one/PennyLane12/1.png",
-            "/img/one/PennyLane12/2.png",
-            "/img/one/PennyLane12/3.png"
+            "img/one/PennyLane12/1.png",
+            "img/one/PennyLane12/2.png",
+            "img/one/PennyLane12/3.png"
             
         ],
         "smell": "нет"
@@ -612,11 +612,11 @@
         "size": "50",
         "group": "Penny Lane - Пенни Лейн",
         "price": "0.43",
-        "main_picture": "/img/one/PennyLane12/main.png",
+        "main_picture": "img/one/PennyLane12/main.png",
         "slider_pictures": [
-            "/img/one/PennyLane12/1.png",
-            "/img/one/PennyLane12/2.png",
-            "/img/one/PennyLane12/3.png"
+            "img/one/PennyLane12/1.png",
+            "img/one/PennyLane12/2.png",
+            "img/one/PennyLane12/3.png"
         ],
         "smell": "нет"
     },
@@ -627,11 +627,11 @@
         "size": "70",
         "group": "Penny Lane - Пенни Лейн",
         "price": "0.71",
-        "main_picture": "/img/one/PennyLane12/main.png",
+        "main_picture": "img/one/PennyLane12/main.png",
         "slider_pictures": [
-            "/img/one/PennyLane12/1.png",
-            "/img/one/PennyLane12/2.png",
-            "/img/one/PennyLane12/3.png"
+            "img/one/PennyLane12/1.png",
+            "img/one/PennyLane12/2.png",
+            "img/one/PennyLane12/3.png"
             
         ],
         "smell": "нет"
@@ -642,12 +642,12 @@
         "size": "40",
         "group": "Jumilia, Джумилия",
         "price": "0.29",
-        "main_picture": "/img/one/Jumilia13/main.png",
+        "main_picture": "img/one/Jumilia13/main.png",
         "slider_pictures": [
-            "/img/one/Jumilia13/1.png",
-            "/img/one/Jumilia13/2.png",
-            "/img/one/Jumilia13/3.png",
-            "/img/one/Jumilia13/4.png"
+            "img/one/Jumilia13/1.png",
+            "img/one/Jumilia13/2.png",
+            "img/one/Jumilia13/3.png",
+            "img/one/Jumilia13/4.png"
             
         ],
         "smell": "нет"
@@ -658,12 +658,12 @@
         "size": "50",
         "group": "Jumilia, Джумилия",
         "price": "0.43",
-        "main_picture": "/img/one/Jumilia13/main.png",
+        "main_picture": "img/one/Jumilia13/main.png",
         "slider_pictures": [
-            "/img/one/Jumilia13/1.png",
-            "/img/one/Jumilia13/2.png",
-            "/img/one/Jumilia13/3.png",
-            "/img/one/Jumilia13/4.png"
+            "img/one/Jumilia13/1.png",
+            "img/one/Jumilia13/2.png",
+            "img/one/Jumilia13/3.png",
+            "img/one/Jumilia13/4.png"
         ],
         "smell": "нет"
     },
@@ -674,12 +674,12 @@
         "size": "60",
         "group": "Jumilia, Джумилия",
         "price": "0.57",
-        "main_picture": "/img/one/Jumilia13/main.png",
+        "main_picture": "img/one/Jumilia13/main.png",
         "slider_pictures": [
-            "/img/one/Jumilia13/1.png",
-            "/img/one/Jumilia13/2.png",
-            "/img/one/Jumilia13/3.png",
-            "/img/one/Jumilia13/4.png"
+            "img/one/Jumilia13/1.png",
+            "img/one/Jumilia13/2.png",
+            "img/one/Jumilia13/3.png",
+            "img/one/Jumilia13/4.png"
         ],
         "smell": "нет"
     },
@@ -689,10 +689,10 @@
         "size": "40",
         "group": "Red Naomi, Ред Наоми",
         "price": "0.29",
-        "main_picture": "/img/one/RedNaomi14/main.png",
+        "main_picture": "img/one/RedNaomi14/main.png",
         "slider_pictures": [
-            "/img/one/RedNaomi14/1.png",
-            "/img/one/RedNaomi14/2.png"
+            "img/one/RedNaomi14/1.png",
+            "img/one/RedNaomi14/2.png"
             
         ],
         "smell": "нет"
@@ -703,10 +703,10 @@
         "size": "50",
         "group": "Red Naomi, Ред Наоми",
         "price": "0.43",
-        "main_picture": "/img/one/RedNaomi14/main.png",
+        "main_picture": "img/one/RedNaomi14/main.png",
         "slider_pictures": [
-            "/img/one/RedNaomi14/1.png",
-            "/img/one/RedNaomi14/2.png"
+            "img/one/RedNaomi14/1.png",
+            "img/one/RedNaomi14/2.png"
         ],
         "smell": "нет"
     },
@@ -716,10 +716,10 @@
         "size": "60",
         "group": "Red Naomi, Ред Наоми",
         "price": "0.57",
-        "main_picture": "/img/one/RedNaomi14/main.png",
+        "main_picture": "img/one/RedNaomi14/main.png",
         "slider_pictures": [
-            "/img/one/RedNaomi14/1.png",
-            "/img/one/RedNaomi14/2.png"
+            "img/one/RedNaomi14/1.png",
+            "img/one/RedNaomi14/2.png"
         ],
         "smell": "нет"
     },
@@ -729,10 +729,10 @@
         "size": "70",
         "group": "Red Naomi, Ред Наоми",
         "price": "0.71",
-        "main_picture": "/img/one/RedNaomi14/main.png",
+        "main_picture": "img/one/RedNaomi14/main.png",
         "slider_pictures": [
-            "/img/one/RedNaomi14/1.png",
-            "/img/one/RedNaomi14/2.png"
+            "img/one/RedNaomi14/1.png",
+            "img/one/RedNaomi14/2.png"
         ],
         "smell": "нет"
     },
@@ -742,10 +742,10 @@
         "size": "80",
         "group": "Red Naomi, Ред Наоми",
         "price": "0.86",
-        "main_picture": "/img/one/RedNaomi14/main.png",
+        "main_picture": "img/one/RedNaomi14/main.png",
         "slider_pictures": [
-            "/img/one/RedNaomi14/1.png",
-            "/img/one/RedNaomi14/2.png"
+            "img/one/RedNaomi14/1.png",
+            "img/one/RedNaomi14/2.png"
         ],
         "smell": "нет"
     },
@@ -756,11 +756,11 @@
         "size": "50",
         "group": "Sophia Loren, Софи Лорен",
         "price": "0.43",
-        "main_picture": "/img/one/SophiaLoren15/main.png",
+        "main_picture": "img/one/SophiaLoren15/main.png",
         "slider_pictures": [
-            "/img/one/SophiaLoren15/1.png",
-            "/img/one/SophiaLoren15/2.png",
-            "/img/one/SophiaLoren15/3.png"
+            "img/one/SophiaLoren15/1.png",
+            "img/one/SophiaLoren15/2.png",
+            "img/one/SophiaLoren15/3.png"
         ],
         "smell": "нет"
     },
@@ -770,11 +770,11 @@
         "size": "70",
         "group": "Sophia Loren, Софи Лорен",
         "price": "0.71",
-        "main_picture": "/img/one/SophiaLoren15/main.png",
+        "main_picture": "img/one/SophiaLoren15/main.png",
         "slider_pictures": [
-            "/img/one/SophiaLoren15/1.png",
-            "/img/one/SophiaLoren15/2.png",
-            "/img/one/SophiaLoren15/3.png"
+            "img/one/SophiaLoren15/1.png",
+            "img/one/SophiaLoren15/2.png",
+            "img/one/SophiaLoren15/3.png"
         ],
         "smell": "нет"
     },
@@ -784,11 +784,11 @@
         "size": "80",
         "group": "Sophia Loren, Софи Лорен",
         "price": "0.86",
-        "main_picture": "/img/one/SophiaLoren15/main.png",
+        "main_picture": "img/one/SophiaLoren15/main.png",
         "slider_pictures": [
-            "/img/one/SophiaLoren15/1.png",
-            "/img/one/SophiaLoren15/2.png",
-            "/img/one/SophiaLoren15/3.png"
+            "img/one/SophiaLoren15/1.png",
+            "img/one/SophiaLoren15/2.png",
+            "img/one/SophiaLoren15/3.png"
         ],
         "smell": "нет"
     },
@@ -799,11 +799,11 @@
         "size": "40",
         "group": "Peach Avalanchе, Пич Аваланж",
         "price": "0.86",
-        "main_picture": "/img/one/PeachAvalanche16/main.png",
+        "main_picture": "img/one/PeachAvalanche16/main.png",
         "slider_pictures": [
-            "/img/one/PeachAvalanche16/1.png",
-            "/img/one/PeachAvalanche16/2.png",
-            "/img/one/PeachAvalanche16/3.png"
+            "img/one/PeachAvalanche16/1.png",
+            "img/one/PeachAvalanche16/2.png",
+            "img/one/PeachAvalanche16/3.png"
         ],
         "smell": "нет"
     },
@@ -813,11 +813,11 @@
         "size": "50",
         "group": "Peach Avalanchе, Пич Аваланж",
         "price": "0.43",
-        "main_picture": "/img/one/PeachAvalanche16/main.png",
+        "main_picture": "img/one/PeachAvalanche16/main.png",
         "slider_pictures": [
-            "/img/one/PeachAvalanche16/1.png",
-            "/img/one/PeachAvalanche16/2.png",
-            "/img/one/PeachAvalanche16/3.png"
+            "img/one/PeachAvalanche16/1.png",
+            "img/one/PeachAvalanche16/2.png",
+            "img/one/PeachAvalanche16/3.png"
         ],
         "smell": "нет"
     },
@@ -827,11 +827,11 @@
         "size": "60",
         "group": "Peach Avalanchе, Пич Аваланж",
         "price": "0.57",
-        "main_picture": "/img/one/PeachAvalanche16/main.png",
+        "main_picture": "img/one/PeachAvalanche16/main.png",
         "slider_pictures": [
-            "/img/one/PeachAvalanche16/1.png",
-            "/img/one/PeachAvalanche16/2.png",
-            "/img/one/PeachAvalanche16/3.png"
+            "img/one/PeachAvalanche16/1.png",
+            "img/one/PeachAvalanche16/2.png",
+            "img/one/PeachAvalanche16/3.png"
         ],
         "smell": "нет"
     },
@@ -841,11 +841,11 @@
         "size": "70",
         "group": "Peach Avalanchе, Пич Аваланж",
         "price": "0.71",
-        "main_picture": "/img/one/PeachAvalanche16/main.png",
+        "main_picture": "img/one/PeachAvalanche16/main.png",
         "slider_pictures": [
-            "/img/one/PeachAvalanche16/1.png",
-            "/img/one/PeachAvalanche16/2.png",
-            "/img/one/PeachAvalanche16/3.png"
+            "img/one/PeachAvalanche16/1.png",
+            "img/one/PeachAvalanche16/2.png",
+            "img/one/PeachAvalanche16/3.png"
         ],
         "smell": "нет"
     },
@@ -857,12 +857,12 @@
         "size": "60",
         "group": "All 4 Love, Олл фо Лав",
         "price": "0.57",
-        "main_picture": "/img/one/All4Love17/main.png",
+        "main_picture": "img/one/All4Love17/main.png",
         "slider_pictures": [
-            "/img/one/All4Love17/1.png",
-            "/img/one/All4Love17/2.png",
-            "/img/one/All4Love17/3.png",
-            "/img/one/All4Love17/4.png"
+            "img/one/All4Love17/1.png",
+            "img/one/All4Love17/2.png",
+            "img/one/All4Love17/3.png",
+            "img/one/All4Love17/4.png"
         ],
         "smell": "есть"
     },
@@ -872,12 +872,12 @@
         "size": "70",
         "group": "All 4 Love, Олл фо Лав",
         "price": "0.71",
-        "main_picture": "/img/one/All4Love17/main.png",
+        "main_picture": "img/one/All4Love17/main.png",
         "slider_pictures": [
-            "/img/one/All4Love17/1.png",
-            "/img/one/All4Love17/2.png",
-            "/img/one/All4Love17/3.png",
-            "/img/one/All4Love17/4.png"
+            "img/one/All4Love17/1.png",
+            "img/one/All4Love17/2.png",
+            "img/one/All4Love17/3.png",
+            "img/one/All4Love17/4.png"
         ],
         "smell": "есть"
     },
@@ -887,12 +887,12 @@
         "size": "80",
         "group": "All 4 Love, Олл фо Лав",
         "price": "0.86",
-        "main_picture": "/img/one/All4Love17/main.png",
+        "main_picture": "img/one/All4Love17/main.png",
         "slider_pictures": [
-            "/img/one/All4Love17/1.png",
-            "/img/one/All4Love17/2.png",
-            "/img/one/All4Love17/3.png",
-            "/img/one/All4Love17/4.png"
+            "img/one/All4Love17/1.png",
+            "img/one/All4Love17/2.png",
+            "img/one/All4Love17/3.png",
+            "img/one/All4Love17/4.png"
         ],
         "smell": "есть"
     },
@@ -915,12 +915,12 @@
         "size": "60",
         "group": "Fiesta, Фиеста",
         "price": "0.57",
-        "main_picture": "/img/one/Fiesta18+/main.png",
+        "main_picture": "img/one/Fiesta18+/main.png",
         "slider_pictures": [
-            "/img/one/Fiesta18+/1.png",
-            "/img/one/Fiesta18+/2.png",
-            "/img/one/Fiesta18+/3.png",
-            "/img/one/Fiesta18+/4.png"
+            "img/one/Fiesta18+/1.png",
+            "img/one/Fiesta18+/2.png",
+            "img/one/Fiesta18+/3.png",
+            "img/one/Fiesta18+/4.png"
         ],
         "smell": "есть"
     },
@@ -930,12 +930,12 @@
         "size": "70",
         "group": "Fiesta, Фиеста",
         "price": "0.71",
-        "main_picture": "/img/one/Fiesta18+/main.png",
+        "main_picture": "img/one/Fiesta18+/main.png",
         "slider_pictures": [
-            "/img/one/Fiesta18+/1.png",
-            "/img/one/Fiesta18+/2.png",
-            "/img/one/Fiesta18+/3.png",
-            "/img/one/Fiesta18+/4.png"
+            "img/one/Fiesta18+/1.png",
+            "img/one/Fiesta18+/2.png",
+            "img/one/Fiesta18+/3.png",
+            "img/one/Fiesta18+/4.png"
         ],
         "smell": "есть"
     },
@@ -946,12 +946,12 @@
         "size": "40",
         "group": "Bombastic, Бомбастик",
         "price": "0.29",
-        "main_picture": "/img/two/Bombastic1/main.png",
+        "main_picture": "img/two/Bombastic1/main.png",
         "slider_pictures": [
-            "/img/two/Bombastic1/1.png",
-            "/img/two/Bombastic1/2.png",
-            "/img/two/Bombastic1/3.png",
-            "/img/two/Bombastic1/4.png"
+            "img/two/Bombastic1/1.png",
+            "img/two/Bombastic1/2.png",
+            "img/two/Bombastic1/3.png",
+            "img/two/Bombastic1/4.png"
         ],
         "smell": "нет"
     },
@@ -961,12 +961,12 @@
         "size": "50",
         "group": "Bombastic, Бомбастик",
         "price": "0.43",
-        "main_picture": "/img/two/Bombastic1/main.png",
+        "main_picture": "img/two/Bombastic1/main.png",
         "slider_pictures": [
-            "/img/two/Bombastic1/1.png",
-            "/img/two/Bombastic1/2.png",
-            "/img/two/Bombastic1/3.png",
-            "/img/two/Bombastic1/4.png"
+            "img/two/Bombastic1/1.png",
+            "img/two/Bombastic1/2.png",
+            "img/two/Bombastic1/3.png",
+            "img/two/Bombastic1/4.png"
         ],
         "smell": "нет"
     },
@@ -976,12 +976,12 @@
         "size": "60",
         "group": "Bombastic, Бомбастик",
         "price": "0.57",
-        "main_picture": "/img/two/Bombastic1/main.png",
+        "main_picture": "img/two/Bombastic1/main.png",
         "slider_pictures": [
-            "/img/two/Bombastic1/1.png",
-            "/img/two/Bombastic1/2.png",
-            "/img/two/Bombastic1/3.png",
-            "/img/two/Bombastic1/4.png"
+            "img/two/Bombastic1/1.png",
+            "img/two/Bombastic1/2.png",
+            "img/two/Bombastic1/3.png",
+            "img/two/Bombastic1/4.png"
         ],
         "smell": "нет"
     },
@@ -991,12 +991,12 @@
         "size": "70",
         "group": "Bombastic, Бомбастик",
         "price": "0.71",
-        "main_picture": "/img/two/Bombastic1/main.png",
+        "main_picture": "img/two/Bombastic1/main.png",
         "slider_pictures": [
-            "/img/two/Bombastic1/1.png",
-            "/img/two/Bombastic1/2.png",
-            "/img/two/Bombastic1/3.png",
-            "/img/two/Bombastic1/4.png"
+            "img/two/Bombastic1/1.png",
+            "img/two/Bombastic1/2.png",
+            "img/two/Bombastic1/3.png",
+            "img/two/Bombastic1/4.png"
         ],
         "smell": "нет"
     },
@@ -1006,12 +1006,12 @@
         "size": "80",
         "group": "Bombastic, Бомбастик",
         "price": "0.86",
-        "main_picture": "/img/two/Bombastic1/main.png",
+        "main_picture": "img/two/Bombastic1/main.png",
         "slider_pictures": [
-            "/img/two/Bombastic1/1.png",
-            "/img/two/Bombastic1/2.png",
-            "/img/two/Bombastic1/3.png",
-            "/img/two/Bombastic1/4.png"
+            "img/two/Bombastic1/1.png",
+            "img/two/Bombastic1/2.png",
+            "img/two/Bombastic1/3.png",
+            "img/two/Bombastic1/4.png"
         ],
         "smell": "нет"
     },
@@ -1022,12 +1022,12 @@
         "size": "60",
         "group": "Yellow Bubbles, Елоу Баблс",
         "price": "0.57",
-        "main_picture": "/img/two/YellowBubbles2/main.png",
+        "main_picture": "img/two/YellowBubbles2/main.png",
         "slider_pictures": [
-            "/img/two/YellowBubbles2/1.png",
-            "/img/two/YellowBubbles2/2.png",
-            "/img/two/YellowBubbles2/3.png",
-            "/img/two/YellowBubbles2/4.png"
+            "img/two/YellowBubbles2/1.png",
+            "img/two/YellowBubbles2/2.png",
+            "img/two/YellowBubbles2/3.png",
+            "img/two/YellowBubbles2/4.png"
             
         ],
         "smell": "нет"
@@ -1040,12 +1040,12 @@
         "size": "40",
         "group": "Gelato, Джелато",
         "price": "0.29",
-        "main_picture": "/img/two/Gelato3/main.png",
+        "main_picture": "img/two/Gelato3/main.png",
         "slider_pictures": [
-            "/img/two/Gelato3/1.png",
-            "/img/two/Gelato3/2.png",
-            "/img/two/Gelato3/3.png",
-            "/img/two/Gelato3/4.png"
+            "img/two/Gelato3/1.png",
+            "img/two/Gelato3/2.png",
+            "img/two/Gelato3/3.png",
+            "img/two/Gelato3/4.png"
         ],
         "smell": "нет"
     },
@@ -1055,12 +1055,12 @@
         "size": "50",
         "group": "Gelato, Джелато",
         "price": "0.43",
-        "main_picture": "/img/two/Gelato3/main.png",
+        "main_picture": "img/two/Gelato3/main.png",
         "slider_pictures": [
-            "/img/two/Gelato3/1.png",
-            "/img/two/Gelato3/2.png",
-            "/img/two/Gelato3/3.png",
-            "/img/two/Gelato3/4.png"
+            "img/two/Gelato3/1.png",
+            "img/two/Gelato3/2.png",
+            "img/two/Gelato3/3.png",
+            "img/two/Gelato3/4.png"
         ],
         "smell": "нет"
     },
@@ -1070,12 +1070,12 @@
         "size": "60",
         "group": "Gelato, Джелато",
         "price": "0.57",
-        "main_picture": "/img/two/Gelato3/main.png",
+        "main_picture": "img/two/Gelato3/main.png",
         "slider_pictures": [
-            "/img/two/Gelato3/1.png",
-            "/img/two/Gelato3/2.png",
-            "/img/two/Gelato3/3.png",
-            "/img/two/Gelato3/4.png"
+            "img/two/Gelato3/1.png",
+            "img/two/Gelato3/2.png",
+            "img/two/Gelato3/3.png",
+            "img/two/Gelato3/4.png"
         ],
         "smell": "нет"
     },
@@ -1085,12 +1085,12 @@
         "size": "70",
         "group": "Gelato, Джелато",
         "price": "0.71",
-        "main_picture": "/img/two/Gelato3/main.png",
+        "main_picture": "img/two/Gelato3/main.png",
         "slider_pictures": [
-            "/img/two/Gelato3/1.png",
-            "/img/two/Gelato3/2.png",
-            "/img/two/Gelato3/3.png",
-            "/img/two/Gelato3/4.png"
+            "img/two/Gelato3/1.png",
+            "img/two/Gelato3/2.png",
+            "img/two/Gelato3/3.png",
+            "img/two/Gelato3/4.png"
         ],
         "smell": "нет"
     },
@@ -1100,12 +1100,12 @@
         "size": "80",
         "group": "Gelato, Джелато",
         "price": "0.86",
-        "main_picture": "/img/two/Gelato3/main.png",
+        "main_picture": "img/two/Gelato3/main.png",
         "slider_pictures": [
-            "/img/two/Gelato3/1.png",
-            "/img/two/Gelato3/2.png",
-            "/img/two/Gelato3/3.png",
-            "/img/two/Gelato3/4.png"
+            "img/two/Gelato3/1.png",
+            "img/two/Gelato3/2.png",
+            "img/two/Gelato3/3.png",
+            "img/two/Gelato3/4.png"
         ],
         "smell": "нет"
     },
@@ -1117,11 +1117,11 @@
         "size": "40",
         "group": "Lady Bubbles, Леди Баблс",
         "price": "0.29",
-        "main_picture": "/img/two/LadyBubbles4/main.png",
+        "main_picture": "img/two/LadyBubbles4/main.png",
         "slider_pictures": [
-            "/img/two/LadyBubbles4/1.png",
-            "/img/two/LadyBubbles4/2.png",
-            "/img/two/LadyBubbles4/3.png"
+            "img/two/LadyBubbles4/1.png",
+            "img/two/LadyBubbles4/2.png",
+            "img/two/LadyBubbles4/3.png"
         ],
         "smell": "нет"
     },
@@ -1131,11 +1131,11 @@
         "size": "50",
         "group": "Lady Bubbles, Леди Баблс",
         "price": "0.43",
-        "main_picture": "/img/two/LadyBubbles4/main.png",
+        "main_picture": "img/two/LadyBubbles4/main.png",
         "slider_pictures": [
-            "/img/two/LadyBubbles4/1.png",
-            "/img/two/LadyBubbles4/2.png",
-            "/img/two/LadyBubbles4/3.png"
+            "img/two/LadyBubbles4/1.png",
+            "img/two/LadyBubbles4/2.png",
+            "img/two/LadyBubbles4/3.png"
         ],
         "smell": "нет"
     },
@@ -1145,11 +1145,11 @@
         "size": "60",
         "group": "Lady Bubbles, Леди Баблс",
         "price": "0.57",
-        "main_picture": "/img/two/LadyBubbles4/main.png",
+        "main_picture": "img/two/LadyBubbles4/main.png",
         "slider_pictures": [
-            "/img/two/LadyBubbles4/1.png",
-            "/img/two/LadyBubbles4/2.png",
-            "/img/two/LadyBubbles4/3.png"
+            "img/two/LadyBubbles4/1.png",
+            "img/two/LadyBubbles4/2.png",
+            "img/two/LadyBubbles4/3.png"
         ],
         "smell": "нет"
     },
@@ -1159,11 +1159,11 @@
         "size": "70",
         "group": "Lady Bubbles, Леди Баблс",
         "price": "0.71",
-        "main_picture": "/img/two/LadyBubbles4/main.png",
+        "main_picture": "img/two/LadyBubbles4/main.png",
         "slider_pictures": [
-            "/img/two/LadyBubbles4/1.png",
-            "/img/two/LadyBubbles4/2.png",
-            "/img/two/LadyBubbles4/3.png"
+            "img/two/LadyBubbles4/1.png",
+            "img/two/LadyBubbles4/2.png",
+            "img/two/LadyBubbles4/3.png"
         ],
         "smell": "нет"
     },
@@ -1173,11 +1173,11 @@
         "size": "80",
         "group": "Lady Bubbles, Леди Баблс",
         "price": "0.86",
-        "main_picture": "/img/two/LadyBubbles4/main.png",
+        "main_picture": "img/two/LadyBubbles4/main.png",
         "slider_pictures": [
-            "/img/two/LadyBubbles4/1.png",
-            "/img/two/LadyBubbles4/2.png",
-            "/img/two/LadyBubbles4/3.png"
+            "img/two/LadyBubbles4/1.png",
+            "img/two/LadyBubbles4/2.png",
+            "img/two/LadyBubbles4/3.png"
         ],
         "smell": "нет"
     },
@@ -1189,11 +1189,11 @@
         "size": "50",
         "group": "Lydia Spray, Лидия Спрей",
         "price": "0.43",
-        "main_picture": "/img/two/LydiaSpray5/main.png",
+        "main_picture": "img/two/LydiaSpray5/main.png",
         "slider_pictures": [
-            "/img/two/LydiaSpray5/1.png",
-            "/img/two/LydiaSpray5/2.png",
-            "/img/two/LydiaSpray5/3.png"
+            "img/two/LydiaSpray5/1.png",
+            "img/two/LydiaSpray5/2.png",
+            "img/two/LydiaSpray5/3.png"
         ],
         "smell": "нет"
     },
@@ -1203,11 +1203,11 @@
         "size": "60",
         "group": "Lydia Spray, Лидия Спрей",
         "price": "0.57",
-        "main_picture": "/img/two/LydiaSpray5/main.png",
+        "main_picture": "img/two/LydiaSpray5/main.png",
         "slider_pictures": [
-            "/img/two/LydiaSpray5/1.png",
-            "/img/two/LydiaSpray5/2.png",
-            "/img/two/LydiaSpray5/3.png"
+            "img/two/LydiaSpray5/1.png",
+            "img/two/LydiaSpray5/2.png",
+            "img/two/LydiaSpray5/3.png"
         ],
         "smell": "нет"
     },
@@ -1217,11 +1217,11 @@
         "size": "70",
         "group": "Lydia Spray, Лидия Спрей",
         "price": "0.71",
-        "main_picture": "/img/two/LydiaSpray5/main.png",
+        "main_picture": "img/two/LydiaSpray5/main.png",
         "slider_pictures": [
-            "/img/two/LydiaSpray5/1.png",
-            "/img/two/LydiaSpray5/2.png",
-            "/img/two/LydiaSpray5/3.png"
+            "img/two/LydiaSpray5/1.png",
+            "img/two/LydiaSpray5/2.png",
+            "img/two/LydiaSpray5/3.png"
         ],
         "smell": "нет"
     },
@@ -1231,11 +1231,11 @@
         "size": "80",
         "group": "Lydia Spray, Лидия Спрей",
         "price": "0.86",
-        "main_picture": "/img/two/LydiaSpray5/main.png",
+        "main_picture": "img/two/LydiaSpray5/main.png",
         "slider_pictures": [
-            "/img/two/LydiaSpray5/1.png",
-            "/img/two/LydiaSpray5/2.png",
-            "/img/two/LydiaSpray5/3.png"
+            "img/two/LydiaSpray5/1.png",
+            "img/two/LydiaSpray5/2.png",
+            "img/two/LydiaSpray5/3.png"
         ],
         "smell": "нет"
     },
@@ -1247,11 +1247,11 @@
         "size": "40",
         "group": "Red Spray, Ред Спрей",
         "price": "0.29",
-        "main_picture": "/img/two/RedSpray7/main.png",
+        "main_picture": "img/two/RedSpray7/main.png",
         "slider_pictures": [
-            "/img/two/RedSpray7/1.png",
-            "/img/two/RedSpray7/2.png",
-            "/img/two/RedSpray7/3.png"
+            "img/two/RedSpray7/1.png",
+            "img/two/RedSpray7/2.png",
+            "img/two/RedSpray7/3.png"
         ],
         "smell": "нет"
     },
@@ -1261,11 +1261,11 @@
         "size": "50",
         "group": "Red Spray, Ред Спрей",
         "price": "0.43",
-        "main_picture": "/img/two/RedSpray7/main.png",
+        "main_picture": "img/two/RedSpray7/main.png",
         "slider_pictures": [
-            "/img/two/RedSpray7/1.png",
-            "/img/two/RedSpray7/2.png",
-            "/img/two/RedSpray7/3.png"
+            "img/two/RedSpray7/1.png",
+            "img/two/RedSpray7/2.png",
+            "img/two/RedSpray7/3.png"
         ],
         "smell": "нет"
     },
@@ -1275,11 +1275,11 @@
         "size": "60",
         "group": "Red Spray, Ред Спрей",
         "price": "0.57",
-        "main_picture": "/img/two/RedSpray7/main.png",
+        "main_picture": "img/two/RedSpray7/main.png",
         "slider_pictures": [
-            "/img/two/RedSpray7/1.png",
-            "/img/two/RedSpray7/2.png",
-            "/img/two/RedSpray7/3.png"
+            "img/two/RedSpray7/1.png",
+            "img/two/RedSpray7/2.png",
+            "img/two/RedSpray7/3.png"
         ],
         "smell": "нет"
     },
@@ -1328,11 +1328,11 @@
         "size": "40",
         "group": "Cream Spray, Крем Спрей",
         "price": "1",
-        "main_picture": "/img/two/CreamSpray9/main.png",
+        "main_picture": "img/two/CreamSpray9/main.png",
         "slider_pictures": [
-            "/img/two/CreamSpray9/1.png",
-            "/img/two/CreamSpray9/2.png",
-            "/img/two/CreamSpray9/3.png"
+            "img/two/CreamSpray9/1.png",
+            "img/two/CreamSpray9/2.png",
+            "img/two/CreamSpray9/3.png"
         ],
         "smell": "нет"
     },
@@ -1342,11 +1342,11 @@
         "size": "50",
         "group": "Cream Spray, Крем Спрей",
         "price": "0.43",
-         "main_picture": "/img/two/CreamSpray9/main.png",
+         "main_picture": "img/two/CreamSpray9/main.png",
         "slider_pictures": [
-            "/img/two/CreamSpray9/1.png",
-            "/img/two/CreamSpray9/2.png",
-            "/img/two/CreamSpray9/3.png"
+            "img/two/CreamSpray9/1.png",
+            "img/two/CreamSpray9/2.png",
+            "img/two/CreamSpray9/3.png"
         ],
         "smell": "нет"
     },
@@ -1356,11 +1356,11 @@
         "size": "60",
         "group": "Cream Spray, Крем Спрей",
         "price": "0.57",
-         "main_picture": "/img/two/CreamSpray9/main.png",
+         "main_picture": "img/two/CreamSpray9/main.png",
         "slider_pictures": [
-            "/img/two/CreamSpray9/1.png",
-            "/img/two/CreamSpray9/2.png",
-            "/img/two/CreamSpray9/3.png"
+            "img/two/CreamSpray9/1.png",
+            "img/two/CreamSpray9/2.png",
+            "img/two/CreamSpray9/3.png"
         ],
         "smell": "нет"
     },
@@ -1370,11 +1370,11 @@
         "size": "70",
         "group": "Cream Spray, Крем Спрей",
         "price": "0.71",
-         "main_picture": "/img/two/CreamSpray9/main.png",
+         "main_picture": "img/two/CreamSpray9/main.png",
         "slider_pictures": [
-            "/img/two/CreamSpray9/1.png",
-            "/img/two/CreamSpray9/2.png",
-            "/img/two/CreamSpray9/3.png"
+            "img/two/CreamSpray9/1.png",
+            "img/two/CreamSpray9/2.png",
+            "img/two/CreamSpray9/3.png"
         ],
         "smell": "нет"
     },
@@ -1385,11 +1385,11 @@
         "size": "40",
         "group": "Madam Bombastik, Мадам Бомбастик",
         "price": "0.29",
-        "main_picture": "/img/two/MadamBombastik10/main.png",
+        "main_picture": "img/two/MadamBombastik10/main.png",
         "slider_pictures": [
-            "/img/two/MadamBombastik10/1.png",
-            "/img/two/MadamBombastik10/2.png",
-            "/img/two/MadamBombastik10/3.png"
+            "img/two/MadamBombastik10/1.png",
+            "img/two/MadamBombastik10/2.png",
+            "img/two/MadamBombastik10/3.png"
         ],
         "smell": "нет"
     },
@@ -1399,11 +1399,11 @@
         "size": "50",
         "group": "Madam Bombastik, Мадам Бомбастик",
         "price": "0.43",
-         "main_picture": "/img/two/MadamBombastik10/main.png",
+         "main_picture": "img/two/MadamBombastik10/main.png",
         "slider_pictures": [
-            "/img/two/MadamBombastik10/1.png",
-            "/img/two/MadamBombastik10/2.png",
-            "/img/two/MadamBombastik10/3.png"
+            "img/two/MadamBombastik10/1.png",
+            "img/two/MadamBombastik10/2.png",
+            "img/two/MadamBombastik10/3.png"
         ],
         "smell": "нет"
     },
@@ -1413,11 +1413,11 @@
         "size": "60",
         "group": "Madam Bombastik, Мадам Бомбастик",
         "price": "0.57",
-         "main_picture": "/img/two/MadamBombastik10/main.png",
+         "main_picture": "img/two/MadamBombastik10/main.png",
         "slider_pictures": [
-            "/img/two/MadamBombastik10/1.png",
-            "/img/two/MadamBombastik10/2.png",
-            "/img/two/MadamBombastik10/3.png"
+            "img/two/MadamBombastik10/1.png",
+            "img/two/MadamBombastik10/2.png",
+            "img/two/MadamBombastik10/3.png"
         ],
         "smell": "нет"
     },
@@ -1427,11 +1427,11 @@
         "size": "70",
         "group": "Madam Bombastik, Мадам Бомбастик",
         "price": "0.71",
-        "main_picture": "/img/two/MadamBombastik10/main.png",
+        "main_picture": "img/two/MadamBombastik10/main.png",
         "slider_pictures": [
-            "/img/two/MadamBombastik10/1.png",
-            "/img/two/MadamBombastik10/2.png",
-            "/img/two/MadamBombastik10/3.png"
+            "img/two/MadamBombastik10/1.png",
+            "img/two/MadamBombastik10/2.png",
+            "img/two/MadamBombastik10/3.png"
         ],
         "smell": "нет"
     },
@@ -1441,11 +1441,11 @@
         "size": "80",
         "group": "Madam Bombastik, Мадам Бомбастик",
         "price": "0.86",
-        "main_picture": "/img/two/MadamBombastik10/main.png",
+        "main_picture": "img/two/MadamBombastik10/main.png",
         "slider_pictures": [
-            "/img/two/MadamBombastik10/1.png",
-            "/img/two/MadamBombastik10/2.png",
-            "/img/two/MadamBombastik10/3.png"
+            "img/two/MadamBombastik10/1.png",
+            "img/two/MadamBombastik10/2.png",
+            "img/two/MadamBombastik10/3.png"
         ],
         "smell": "нет"
     },
@@ -1456,11 +1456,11 @@
         "size": "40",
         "group": "Misty Bubbles, Мисти Баблс",
         "price": "0.29",
-        "main_picture": "/img/two/MistyBubbles11/main.png",
+        "main_picture": "img/two/MistyBubbles11/main.png",
         "slider_pictures": [
-            "/img/two/MistyBubbles11/1.png",
-            "/img/two/MistyBubbles11/2.png",
-            "/img/two/MistyBubbles11/3.png"
+            "img/two/MistyBubbles11/1.png",
+            "img/two/MistyBubbles11/2.png",
+            "img/two/MistyBubbles11/3.png"
         ],
         "smell": "нет"
     },
@@ -1470,11 +1470,11 @@
         "size": "50",
         "group": "Misty Bubbles, Мисти Баблс",
         "price": "0.43",
-         "main_picture": "/img/two/MistyBubbles11/main.png",
+         "main_picture": "img/two/MistyBubbles11/main.png",
         "slider_pictures": [
-            "/img/two/MistyBubbles11/1.png",
-            "/img/two/MistyBubbles11/2.png",
-            "/img/two/MistyBubbles11/3.png"
+            "img/two/MistyBubbles11/1.png",
+            "img/two/MistyBubbles11/2.png",
+            "img/two/MistyBubbles11/3.png"
         ],
         "smell": "нет"
     },
@@ -1484,11 +1484,11 @@
         "size": "60",
         "group": "Misty Bubbles, Мисти Баблс",
         "price": "0.57",
-         "main_picture": "/img/two/MistyBubbles11/main.png",
+         "main_picture": "img/two/MistyBubbles11/main.png",
         "slider_pictures": [
-            "/img/two/MistyBubbles11/1.png",
-            "/img/two/MistyBubbles11/2.png",
-            "/img/two/MistyBubbles11/3.png"
+            "img/two/MistyBubbles11/1.png",
+            "img/two/MistyBubbles11/2.png",
+            "img/two/MistyBubbles11/3.png"
         ],
         "smell": "нет"
     },
@@ -1500,11 +1500,11 @@
         "size": "80",
         "group": "Red Piano, Ред Пиано",
         "price": "0.86",
-        "main_picture": "/img/two/RedPiano12/main.png",
+        "main_picture": "img/two/RedPiano12/main.png",
         "slider_pictures": [
-            "/img/two/RedPiano12/1.png",
-            "/img/two/RedPiano12/2.png",
-            "/img/two/RedPiano12/3.png"
+            "img/two/RedPiano12/1.png",
+            "img/two/RedPiano12/2.png",
+            "img/two/RedPiano12/3.png"
         ],
         "smell": "нет"
     },
@@ -1515,7 +1515,7 @@
         "size": "40",
         "group": "Pink Spray, Пинк Спрей",
         "price": "0.29",
-        "main_picture": "/img/two/PinkSprey13/main.png",
+        "main_picture": "img/two/PinkSprey13/main.png",
         "slider_pictures": [
             
         ],
@@ -1527,7 +1527,7 @@
         "size": "50",
         "group": "Pink Spray, Пинк Спрей",
         "price": "0.43",
-        "main_picture": "/img/two/PinkSprey13/main.png",
+        "main_picture": "img/two/PinkSprey13/main.png",
         "slider_pictures": [
             
         ],
@@ -1540,11 +1540,11 @@
         "size": "40",
         "group": "Romantiс Bubbles, Романтик Баблс",
         "price": "0.29",
-        "main_picture": "/img/two/RomanticBubbles 14/main.png",
+        "main_picture": "img/two/RomanticBubbles 14/main.png",
         "slider_pictures": [
-            "/img/two/RomanticBubbles 14/1.png",
-            "/img/two/RomanticBubbles 14/2.png",
-            "/img/two/RomanticBubbles 14/3.png"
+            "img/two/RomanticBubbles 14/1.png",
+            "img/two/RomanticBubbles 14/2.png",
+            "img/two/RomanticBubbles 14/3.png"
         ],
         "smell": "нет"
     },
@@ -1554,11 +1554,11 @@
         "size": "50",
         "group": "Romantiс Bubbles, Романтик Баблс",
         "price": "0.43",
-         "main_picture": "/img/two/RomanticBubbles 14/main.png",
+         "main_picture": "img/two/RomanticBubbles 14/main.png",
         "slider_pictures": [
-            "/img/two/RomanticBubbles 14/1.png",
-            "/img/two/RomanticBubbles 14/2.png",
-            "/img/two/RomanticBubbles 14/3.png"
+            "img/two/RomanticBubbles 14/1.png",
+            "img/two/RomanticBubbles 14/2.png",
+            "img/two/RomanticBubbles 14/3.png"
         ],
         "smell": "нет"
     },
@@ -1568,11 +1568,11 @@
         "size": "60",
         "group": "Romantiс Bubbles, Романтик Баблс",
         "price": "0.57",
-        "main_picture": "/img/two/RomanticBubbles 14/main.png",
+        "main_picture": "img/two/RomanticBubbles 14/main.png",
         "slider_pictures": [
-            "/img/two/RomanticBubbles 14/1.png",
-            "/img/two/RomanticBubbles 14/2.png",
-            "/img/two/RomanticBubbles 14/3.png"
+            "img/two/RomanticBubbles 14/1.png",
+            "img/two/RomanticBubbles 14/2.png",
+            "img/two/RomanticBubbles 14/3.png"
         ],
         "smell": "нет"
     },
@@ -1584,11 +1584,11 @@
         "size": "40",
         "group": "Silva Pink, Сильва Пинк",
         "price": "0.29",
-        "main_picture": "/img/two/SilvaPink15/main.png",
+        "main_picture": "img/two/SilvaPink15/main.png",
         "slider_pictures": [
-            "/img/two/SilvaPink15/1.png",
-            "/img/two/SilvaPink15/2.png",
-            "/img/two/SilvaPink15/3.png"
+            "img/two/SilvaPink15/1.png",
+            "img/two/SilvaPink15/2.png",
+            "img/two/SilvaPink15/3.png"
         ],
         "smell": "есть"
     },
@@ -1598,11 +1598,11 @@
         "size": "50",
         "group": "Silva Pink, Сильва Пинк",
         "price": "0.43",
-         "main_picture": "/img/two/SilvaPink15/main.png",
+         "main_picture": "img/two/SilvaPink15/main.png",
         "slider_pictures": [
-            "/img/two/SilvaPink15/1.png",
-            "/img/two/SilvaPink15/2.png",
-            "/img/two/SilvaPink15/3.png"
+            "img/two/SilvaPink15/1.png",
+            "img/two/SilvaPink15/2.png",
+            "img/two/SilvaPink15/3.png"
         ],
         "smell": "есть"
     },
@@ -1614,11 +1614,11 @@
         "size": "40",
         "group": "White Bubbles, Вайт Баблс",
         "price": "0.29",
-        "main_picture": "/img/two/WhiteBubbles16/main.png",
+        "main_picture": "img/two/WhiteBubbles16/main.png",
         "slider_pictures": [
-            "/img/two/WhiteBubbles16/1.png",
-            "/img/two/WhiteBubbles16/2.png",
-            "/img/two/WhiteBubbles16/3.png"
+            "img/two/WhiteBubbles16/1.png",
+            "img/two/WhiteBubbles16/2.png",
+            "img/two/WhiteBubbles16/3.png"
         ],
         "smell": "нет"
     },
@@ -1628,11 +1628,11 @@
         "size": "50",
         "group": "White Bubbles, Вайт Баблс",
         "price": "0.43",
-         "main_picture": "/img/two/WhiteBubbles16/main.png",
+         "main_picture": "img/two/WhiteBubbles16/main.png",
         "slider_pictures": [
-            "/img/two/WhiteBubbles16/1.png",
-            "/img/two/WhiteBubbles16/2.png",
-            "/img/two/WhiteBubbles16/3.png"
+            "img/two/WhiteBubbles16/1.png",
+            "img/two/WhiteBubbles16/2.png",
+            "img/two/WhiteBubbles16/3.png"
         ],
         "smell": "нет"
     },
@@ -1642,11 +1642,11 @@
         "size": "60",
         "group": "White Bubbles, Вайт Баблс",
         "price": "0.57",
-        "main_picture": "/img/two/WhiteBubbles16/main.png",
+        "main_picture": "img/two/WhiteBubbles16/main.png",
         "slider_pictures": [
-            "/img/two/WhiteBubbles16/1.png",
-            "/img/two/WhiteBubbles16/2.png",
-            "/img/two/WhiteBubbles16/3.png"
+            "img/two/WhiteBubbles16/1.png",
+            "img/two/WhiteBubbles16/2.png",
+            "img/two/WhiteBubbles16/3.png"
         ],
         "smell": "нет"
     },
@@ -1656,11 +1656,11 @@
         "size": "70",
         "group": "White Bubbles, Вайт Баблс",
         "price": "0.71",
-         "main_picture": "/img/two/WhiteBubbles16/main.png",
+         "main_picture": "img/two/WhiteBubbles16/main.png",
         "slider_pictures": [
-            "/img/two/WhiteBubbles16/1.png",
-            "/img/two/WhiteBubbles16/2.png",
-            "/img/two/WhiteBubbles16/3.png"
+            "img/two/WhiteBubbles16/1.png",
+            "img/two/WhiteBubbles16/2.png",
+            "img/two/WhiteBubbles16/3.png"
         ],
         "smell": "нет"
     },
@@ -1672,11 +1672,11 @@
         "size": "40",
         "group": "White Spray, Вайт Спрей",
         "price": "0.29",
-        "main_picture": "/img/two/WhiteSpray17/main.png",
+        "main_picture": "img/two/WhiteSpray17/main.png",
         "slider_pictures": [
-            "/img/two/WhiteSpray17/1.png",
-            "/img/two/WhiteSpray17/2.png",
-            "/img/two/WhiteSpray17/3.png"
+            "img/two/WhiteSpray17/1.png",
+            "img/two/WhiteSpray17/2.png",
+            "img/two/WhiteSpray17/3.png"
         ],
         "smell": "нет"
     },
@@ -1686,11 +1686,11 @@
         "size": "50",
         "group": "White Spray, Вайт Спрей",
         "price": "0.43",
-         "main_picture": "/img/two/WhiteSpray17/main.png",
+         "main_picture": "img/two/WhiteSpray17/main.png",
         "slider_pictures": [
-            "/img/two/WhiteSpray17/1.png",
-            "/img/two/WhiteSpray17/2.png",
-            "/img/two/WhiteSpray17/3.png"
+            "img/two/WhiteSpray17/1.png",
+            "img/two/WhiteSpray17/2.png",
+            "img/two/WhiteSpray17/3.png"
         ],
         "smell": "нет"
     },
@@ -1700,11 +1700,11 @@
         "size": "60",
         "group": "White Spray, Вайт Спрей",
         "price": "0.57",
-        "main_picture": "/img/two/WhiteSpray17/main.png",
+        "main_picture": "img/two/WhiteSpray17/main.png",
         "slider_pictures": [
-            "/img/two/WhiteSpray17/1.png",
-            "/img/two/WhiteSpray17/2.png",
-            "/img/two/WhiteSpray17/3.png"
+            "img/two/WhiteSpray17/1.png",
+            "img/two/WhiteSpray17/2.png",
+            "img/two/WhiteSpray17/3.png"
         ],
         "smell": "нет"
     },
@@ -1714,11 +1714,11 @@
         "size": "70",
         "group": "White Spray, Вайт Спрей",
         "price": "0.71",
-        "main_picture": "/img/two/WhiteSpray17/main.png",
+        "main_picture": "img/two/WhiteSpray17/main.png",
         "slider_pictures": [
-            "/img/two/WhiteSpray17/1.png",
-            "/img/two/WhiteSpray17/2.png",
-            "/img/two/WhiteSpray17/3.png"
+            "img/two/WhiteSpray17/1.png",
+            "img/two/WhiteSpray17/2.png",
+            "img/two/WhiteSpray17/3.png"
         ],
         "smell": "нет"
     },
@@ -1730,10 +1730,10 @@
         "size": "40",
         "group": "Splash Sensation, Сплеш Сенсейшн",
         "price": "0.29",
-        "main_picture": "/img/two/SplashSensation18/main.png",
+        "main_picture": "img/two/SplashSensation18/main.png",
         "slider_pictures": [
-            "/img/two/SplashSensation18/1.png",
-            "/img/two/SplashSensation18/2.png"
+            "img/two/SplashSensation18/1.png",
+            "img/two/SplashSensation18/2.png"
         ],
         "smell": "нет"
     },
@@ -1743,10 +1743,10 @@
         "size": "50",
         "group": "Splash Sensation, Сплеш Сенсейшн",
         "price": "0.43",
-         "main_picture": "/img/two/SplashSensation18/main.png",
+         "main_picture": "img/two/SplashSensation18/main.png",
         "slider_pictures": [
-            "/img/two/SplashSensation18/1.png",
-            "/img/two/SplashSensation18/2.png"
+            "img/two/SplashSensation18/1.png",
+            "img/two/SplashSensation18/2.png"
         ],
         "smell": "нет"
     },
@@ -1758,10 +1758,10 @@
         "size": "50",
         "group": "Vivuzela, Вивузела",
         "price": "0.43",
-         "main_picture": "/img/two/Vivuzela19/main.png",
+         "main_picture": "img/two/Vivuzela19/main.png",
         "slider_pictures": [
-            "/img/two/Vivuzela19/1.png",
-            "/img/two/Vivuzela19/2.png"
+            "img/two/Vivuzela19/1.png",
+            "img/two/Vivuzela19/2.png"
         ],
         "smell": "нет"
     },
@@ -1773,11 +1773,11 @@
         "size": "50",
         "group": "Catalina, Каталина",
         "price": "0.43",
-         "main_picture": "/img/two/Catalina6/main.png",
+         "main_picture": "img/two/Catalina6/main.png",
         "slider_pictures": [
-            "/img/two/Catalina6/1.png",
-            "/img/two/Catalina6/2.png",
-            "/img/two/Catalina6/3.png"
+            "img/two/Catalina6/1.png",
+            "img/two/Catalina6/2.png",
+            "img/two/Catalina6/3.png"
         ],
         "smell": "нет"
     }
