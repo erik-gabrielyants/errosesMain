@@ -1,0 +1,247 @@
+Sure, I'll add input fields for the quantity instead of just buttons. Here's the modified HTML code:
+
+```html
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="main.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap" rel="stylesheet">
+    <title>ErRoses</title>
+   
+</head>
+<body>
+    <header>
+        <h1>ERROSES</h1>
+    </header>
+    
+    <div class="container">
+        <div class="item_qty">Loading...</div>
+        <div class="list_wrapper" id="listWrapper"></div>
+        <div class="show_more_btn_wrapper">
+            <button class="show_more_btn" onclick="showMore()">показать еще</button>
+        </div>
+    </div>
+
+    <footer>
+        <!-- <button onclick="showSummary()">Show Summary</button> -->
+        Contact 
+        <div>D3636D@gmail.com | +380 (67) 500 95 59</div>
+        <div class="left"> erik.gabrielyants@mail.ru | +37433555535 (WhatsApp)</div>
+
+    </footer>
+
+    <div id="summaryModal" class="modal_sum">
+        <div class="modal_content">
+            <span class="close" onclick="closeSummary()">&times;</span>
+            <h2>Корзина</h2>
+            <div id="summaryDetails"></div>
+            <div id="totalPrice"></div>
+        </div>
+    </div>
+
+    <script>
+        let allItems = [];
+        let itemsPerPage = 30;
+        let currentPage = 0;
+
+        // Fetch item data from JSON database
+        fetch('db.json')
+        .then(response => response.json())
+        .then(data => {
+            allItems = data;
+            displayItems();
+            updateItemCount();
+        })
+        .catch(error => console.error('Error fetching data:', error));
+
+        function displayItems() {
+            const listWrapper = document.getElementById('listWrapper');
+            listWrapper.innerHTML = ''; // Clear previous items
+            
+            for (let i = 0; i < (currentPage + 1) * itemsPerPage && i < allItems.length; i++) {
+                const item = allItems[i];
+                const itemElement = document.createElement('div');
+                itemElement.className = 'list';
+                
+                itemElement.innerHTML = `
+                    <ul class="list">
+                        <li class="item_wrapper">
+                            <img src="${item.main_picture}" class="item_img" alt="">
+                            <div class="item_inner">
+                                <div class="item_desc">
+                                    <div class="item_name">${item.name}</div>
+                                    <div class="item_size">размер: ${item.size}</div>
+                                    <div class="item_price">цена: ${item.price} $/шт</div>
+                                    <div class="item_quantity">
+                                        <input type="number" min="0" value="0" onchange="updateQuantity(this)">
+                                    </div>
+                                </div>
+                                <div class="smell_wrapper">
+                                    <div class="smell_label">запах</div>
+                                    <div class="smell_icon">${item.smell}</div>
+                                </div>
+                            </div>
+                            <button onclick="toggleSlider('slider${item.id}')">Фото</button>
+                        </li>
+                    </ul>
+                    <div class="slider" id="slider${item.id}">
+                        <div class="close" onclick="closeSlider('slider${item.id}')">&#10006;</div>
+                        ${item.slider_pictures.map(pic => `<img src="${pic}" alt="Slider Image">`).join('')}
+                        <div class="prev" onclick="prevSlide('slider${item.id}')">&#10094;</div>
+                        <div class="next" onclick="nextSlide('slider${item.id}')">&#10095;</div>
+                    </div>
+                `;
+                listWrapper.appendChild(itemElement);
+            }
+        }
+
+        function showMore() {
+            currentPage++;
+            displayItems();
+        }
+
+        function updateItemCount() {
+            const itemQty = document.querySelector('.item_qty');
+            if (itemQty) {
+                itemQty.textContent = allItems.length + ' товаров';
+            }
+        }
+
+         
+            function toggleSlider(sliderId) {
+                var slider = document.getElementById(sliderId);
+                slider.classList.toggle("active");
+            }
+    
+            function prevSlide(sliderId) {
+                var slides = document.getElementById(sliderId).getElementsByTagName("img");
+                var slideIndex = 1;
+                for (var i = 0; i < slides.length; i++) {
+                    if (slides[i].style.display !== "none") {
+                        slideIndex = i + 1;
+                        break;
+                    }
+                }
+                showSlide(slideIndex -= 1, sliderId);
+            }
+    
+            function nextSlide(sliderId) {
+                var slides = document.getElementById(sliderId).getElementsByTagName("img");
+                var slideIndex = 1;
+                for (var i = 0; i < slides.length; i++) {
+                    if (slides[i].style.display !== "none") {
+                        slideIndex = i + 1;
+                        break;
+                    }
+                }
+                showSlide(slideIndex += 1, sliderId);
+            }
+    
+            function showSlide(n, sliderId) {
+                var slides = document.getElementById(sliderId).getElementsByTagName("img");
+                if (n > slides.length) { n = 1 }
+                if (n < 1) { n = slides.length }
+                for (var i = 0; i < slides.length; i++) {
+                    slides[i].style.display = "none";
+                }
+                slides[n - 1].style.display = "inline-block";
+            }
+    
+            function closeSlider(sliderId) {
+                var slider = document.getElementById(sliderId);
+                slider.classList.remove("active");
+            }
+    
+    
+            window.addEventListener("click", function(event) {
+                var sliders = document.getElementsByClassName("slider");
+                for (var i = 0; i < sliders.length; i++) {
+                    if (!event.target.closest(".slider") && !event.target.matches("button")) {
+                        sliders[i].classList.remove("active");
+                    }
+                }
+            });
+            
+            function updateQuantity(input) {
+                var quantity = parseInt(input.value);
+                if (isNaN(quantity) || quantity < 0) {
+                    input.value = 0;
+                }
+                updateTotalPrice();
+                updateSummary(); 
+            }
+    
+    
+            function updateTotalPrice() {
+                var items = document.querySelectorAll(".item_wrapper");
+                var totalPrice = 0;
+                items.forEach(function(item) {
+                    var priceElement = item.querySelector(".item_price");
+                    var quantityElement = item.querySelector(".item_quantity input");
+                    if (priceElement && quantityElement) {
+                        var pricePerItem = parseFloat(priceElement.textContent.split(" ")[1]);
+                        var quantity = parseInt(quantityElement.value);
+                        totalPrice += pricePerItem * quantity;
+                    }
+                });
+                var totalPriceElement = document.getElementById("totalPrice");
+                if (totalPriceElement) {
+                    totalPriceElement.textContent =
+
+ "Total Price: $" + totalPrice.toFixed(2);
+                }
+            }
+            
+            function showSummary() {
+                var modal = document.getElementById("summaryModal");
+                modal.style.display = "block";
+                updateSummary();
+            }
+    
+            function closeSummary() {
+                var modal = document.getElementById("summaryModal");
+                modal.style.display = "none";
+            }
+    
+            function updateSummary() {
+                var items = document.querySelectorAll(".item_wrapper");
+                var summaryDetails = "";
+                var totalPrice = 0;
+            
+                items.forEach(function(item, index) {
+                    var name = item.querySelector(".item_name").textContent;
+                    var size = item.querySelector(".item_size").textContent;
+                    var quantity = parseInt(item.querySelector(".item_quantity input").value);
+                    if (quantity > 0) {
+                        var pricePerItem = parseFloat(item.querySelector(".item_price").textContent.split(" ")[1]);
+                        var subtotal = pricePerItem * quantity;
+                        totalPrice += subtotal;
+                        summaryDetails += name  +": "+ size + "cm "+ quantity + " шт - $" + subtotal.toFixed(2) + " " + 
+                                          `<button class="delete_btn" onclick="deleteItem(${index})">Удалить</button>` + "<br>";
+                    }
+                });
+            
+                document.getElementById("summaryDetails").innerHTML = summaryDetails;
+                document.getElementById("totalPrice").innerHTML = "Total Price: $" + totalPrice.toFixed(2);
+            }
+            
+            function deleteItem(index) {
+                var items = document.querySelectorAll(".item_wrapper");
+                if (index >= 0 && index < items.length) {
+                    // Set the quantity of the item at the specified index to 0 in the HTML
+                    items[index].querySelector(".item_quantity input").value = 0;
+                    updateSummary(); // Update the summary with the modified cart
+                }
+            }
+    
+    
+            showSlide(1, "slider1");
+            showSlide(1, "slider2");
+    </script>
+</body>
+</html>
