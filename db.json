@@ -708,7 +708,7 @@
             "img/one/RedNaomi14/1.png",
             "img/one/RedNaomi14/2.png"
         ],
-        "smell": "нет"
+        "smell": "есть"
     },
     {
         "id": 49,
@@ -721,7 +721,7 @@
             "img/one/RedNaomi14/1.png",
             "img/one/RedNaomi14/2.png"
         ],
-        "smell": "нет"
+        "smell": "есть"
     },
     {
         "id": 50,
@@ -734,7 +734,7 @@
             "img/one/RedNaomi14/1.png",
             "img/one/RedNaomi14/2.png"
         ],
-        "smell": "нет"
+        "smell": "есть"
     },
     {
         "id": 51,
@@ -1779,7 +1779,7 @@
             "img/two/Catalina6/2.png",
             "img/two/Catalina6/3.png"
         ],
-        "smell": "нет"
+        "smell": "есть"
     }
 
 
