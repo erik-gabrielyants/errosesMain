@@ -1025,6 +1025,22 @@
         ],
         "smell": "есть"
     },
+
+
+    {
+        "id": 126,
+        "name": "Orange Crush, Оранж Краш",
+        "size": "50",
+        "group": "Orange Crush, Оранж Краш",
+        "price": "0.43",
+         "main_picture": "img/one/Orange Crush21/main.png",
+        "slider_pictures": [
+            "img/one/Orange Crush21/1.png",
+            "img/one/Orange Crush21/2.png",
+            "img/one/Orange Crush21/3.png"
+        ],
+        "smell": "нет"
+    },
     
     
     
@@ -2059,6 +2075,22 @@
             "img/two/Catalina6/3.png"
         ],
         "smell": "есть"
+    },
+
+
+    {
+        "id": 126,
+        "name": "Orange Crush, Оранж Краш",
+        "size": "50",
+        "group": "Orange Crush, Оранж Краш",
+        "price": "0.43",
+         "main_picture": "img/one/Orange Crush21/main.png",
+        "slider_pictures": [
+            "img/one/Orange Crush21/1.png",
+            "img/one/Orange Crush21/2.png",
+            "img/one/Orange Crush21/3.png"
+        ],
+        "smell": "нет"
     }
 
 
